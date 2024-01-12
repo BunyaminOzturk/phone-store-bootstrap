@@ -9,3 +9,22 @@
 #head-li {
     color: white;
 }
+
+.jumbotron-bg {
+    background-color: rebeccapurple;
+    text-align: center;
+   
+}
+.jumbotron-bg > h1 {
+    color: red;
+}
+
+.h3-hakkimizda{
+    color: rgb(108, 108, 52);
+    font-family: 'Roboto', sans-serif;
+}
+
+.ul-style-center {
+    list-style-position: inside;
+    font-family: 'Roboto', sans-serif;
+}
