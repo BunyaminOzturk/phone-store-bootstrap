@@ -23,8 +23,25 @@
     color: rgb(108, 108, 52);
     font-family: 'Roboto', sans-serif;
 }
+.h3-hakkimizda-title {
+    color: rgb(108, 108, 52);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+}
 
 .ul-style-center {
     list-style-position: inside;
     font-family: 'Roboto', sans-serif;
+}
+
+.h3-center{
+    color: purple;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.hakkimizda-div-margin {
+    margin-left: 20px;
+    margin-right: 20px;
 }
